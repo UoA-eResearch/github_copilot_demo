@@ -1,4 +1,4 @@
-# github_copilot_demo
+# sonnet_chess
 
 # ♟ 3D Chess
 
